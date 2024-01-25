@@ -44,7 +44,7 @@ export default function Home() {
         </div>
 
         {/* アップロードページへのリンク */}
-        <Link href="/upload" className={styles.oval}>アップロード</Link>
+        <Link href="/upload" className={styles.oval}>うわああああああああ</Link>
 
         {/* ショップとマイページへのリンク */}
         <div className={styles.circles}>
